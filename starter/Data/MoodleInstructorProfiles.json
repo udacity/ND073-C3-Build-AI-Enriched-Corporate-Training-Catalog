@@ -1,0 +1,24 @@
+{
+    "inlineEntitiesDefinition": [
+        {
+            "name": "Mike Montoya",
+            "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events."
+        },
+        {
+            "name": "Claudia Blackman",
+            "description": "Claudia is our senior DevOps engineer. She is charged with overseeing our DevOps operations and has been with the company for 2 years. Claudia enjoys downhill skiing and is a member of the local Search & Rescue Team."
+        },
+        {
+            "name": "Robert Gillis",
+            "description": "Robert is our GIS specialist in charge of making beautiful maps for our users. He has been with the company for 8 years and enjoys hiking, fishing, and any other outdoor activity."
+        },
+        {
+            "name": "Gerald Dominguez",
+            "description": "Gerald is a Junior IT Administrator and has been with the company for 1 year. Gerald played NCAA soccer and is a part-time soccer coach on weekends. "
+        },
+        {
+            "name": "Eileen Diaz",
+            "description": "Eileen is our Senior Security Engineer responsible for application and service security. She has been with the company for 9 years and enjoys writing Sci-Fi in her spare time."
+        }
+    ]
+}
